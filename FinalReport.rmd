@@ -62,11 +62,10 @@ chisq.test(table1)
 chisqtestGC(table1)
 fisher.test(table1)
 ```
-Lets talk about odds for a second, of those who believe in postlife, if you do not belive in postlife what are the odds of the bigbang being false? For those who said no to believing in postlife but believe in the bigbang, the odds are 8/15. now suppose that you do believe in postlife the odds are 88/67. If we had more data, these results would be more significant to make a determination. The odds ratio is .408 : 1. 
+Lets talk about odds for a second, of those who do believe in postlife, what are the odds of the bigbang being false? For those who said no to believing in postlife but believe in the bigbang, the odds are 8/15 out of a group of 23 people. Now suppose that you do believe in postlife and not the bigbang the odds are 88/67 of 155 people. If we had more data, these results would be more significant to make a determination. The odds ratio is .408 : 1. 
 
-```{r}
-(8/15)/(88/67)
-```
+Odds ratio= `r (8/15)/(88/67)`  
+
 
 # Discussion and Conclusion
 
